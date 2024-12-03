@@ -26,7 +26,7 @@ const Projects = () => {
         Used useState and useEffect hooks to manage state and update in real-time, cutting website crashes 
         by 15% and making the user experience smoother. 
         Enhanced website performance by applying React.js best practices, achieving a 35% faster load time 
-        and a 20% increase in user retention, resulting in a more responsive and user-friendly interface. "/>
+        and a 20% increase in user retention, resulting in a more responsive and user-friendly interface. " url="https://github.com/rakasiarunkumarreddy/react_swiggy_app"/>
 
         <ProjectCompo name="HTML,CSS Conquer" description="A simple webpage using HTML and CSS is a great starting point for web development. It typically consists of a structured layout with a header, main content, and footer sections. HTML provides the skeleton of the webpage, organizing text, images, and links into meaningful elements. CSS adds style, enhancing the visual appeal with colors, fonts, and spacing. By combining these two technologies, developers can create responsive and interactive designs that adapt to different devices. This foundational knowledge opens doors to more advanced web development concepts, such as JavaScript and frameworks."/>
         
@@ -34,7 +34,7 @@ const Projects = () => {
         miles of protected land. 
         Achieved a 95% detection rate, significantly improving the monitoring of animal intrusions. 
         Reduced animal intrusions by 40% through automated sound alerts that scare them away. 
-        Increased the accuracy of response measures by 25% with the implementation of sound-based alerts. "/>
+        Increased the accuracy of response measures by 25% with the implementation of sound-based alerts.  "/>
         
       </div>
     </div>
