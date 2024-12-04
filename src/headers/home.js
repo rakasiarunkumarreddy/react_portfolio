@@ -5,7 +5,7 @@ const Home = () => {
   return (
     <div className='abhead'>
       <div>
-        <img style={{paddingTop:"20%",borderRadius:"50%",height:"60vh"}} src="https://i.ibb.co/9wKVY3t/photo2.png" alt=""/>
+        <img style={{paddingTop:"20%",borderRadius:"50%",height:"50vh",width:"50vh",marginLeft:"20px"}} src="https://i.ibb.co/9wKVY3t/photo2.png" alt=""/>
       </div>
       <div>
         <div style={{padding:"20px"}}>
