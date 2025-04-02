@@ -21,7 +21,7 @@ const Skills = () => {
     <Header/>
     <div style={styles}>
       <ul className='skills_ul'>
-        <li style={{listStyleType:"none"}}><h1>Skills</h1></li>
+        <li style={{listStyleType:"none"}}><h1 style={{color:"maroon"}}>Skills</h1></li>
         <li className='skills_ul'>HTML</li>
         <li className='skills_ul'>CSS</li>
         <li className='skills_ul'>JavaScript</li>

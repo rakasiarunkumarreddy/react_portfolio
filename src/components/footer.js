@@ -11,7 +11,7 @@ const Footer = () => {
         <a href="www.gmail.com"><img alt="" src="https://imgs.search.brave.com/jHh-7Cruhcgw4Vy8H0i-IIXKQvAUp3n4ekZujqCMKhk/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9waXVu/aWthd2ViLmNvbS93/cC1jb250ZW50L3Vw/bG9hZHMvMjAyMS8w/OC9HbWFpbC0xLmpw/Zw"/></a>
       </div>
       <div>
-        <h1>@ Arun Kumar Reddy Rakasi</h1>
+        <h1 style={{color:"white",textDecoration:"none"}}>@ Arun Kumar Reddy Rakasi</h1>
       </div>
     </div>
   )

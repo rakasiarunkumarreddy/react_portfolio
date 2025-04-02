@@ -18,10 +18,11 @@ const Contacts = () => {
     <div>
     <Header/>
     <div style={styles}>
-      <div style={{marginTop:"16%"}}>
-        <h1 style={{color:"black"}}>Name:Arun Kumar Reddy Rakasi</h1>
+      <h1 style={{color:"maroon"}}>Contact Details</h1>
+      <div style={{marginTop:"6%"}}>
+        <h1 style={{color:"black"}}>Name: Arun Kumar Reddy Rakasi</h1>
         <h1 style={{color:"black"}}>Email-id: rarunreddy2002@gmail.com</h1>
-        <h1 style={{color:"black"}}>Phno:6309708105</h1>
+        <h1 style={{color:"black"}}>Phno: 6309708105</h1>
         <h1 style={{color:"green"}}>or contact via</h1>
       </div>
       <div className='img'>
